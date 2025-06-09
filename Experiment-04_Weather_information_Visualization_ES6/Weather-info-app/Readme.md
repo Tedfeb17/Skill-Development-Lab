@@ -46,6 +46,6 @@ License
 This project is licensed under the MIT License.
 
 Author
-•M Swayam Prakash
-•GitHub: Your GitHub Profile
+•Tanish Namadevan
+•GitHub: Tedfeb17 
 Feel free to contribute or suggest improvements!

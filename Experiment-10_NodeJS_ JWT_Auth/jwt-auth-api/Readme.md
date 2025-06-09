@@ -81,8 +81,8 @@ POST /api/students
 Authorization: Bearer Token required
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
+  "name": "Tanish",
+  "age": 19,
   "course": "Mathematics"
 }
 
@@ -97,8 +97,8 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
+    "name": "Tanish",
+    "age": 19,
     "course": "Mathematics"
   }
 ]
